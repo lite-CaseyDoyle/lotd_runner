@@ -1,0 +1,10 @@
+# Repository contents are intentionally limited to the tool, tests and README.
+# Add an exception here when intentionally adding another repository file.
+/*
+!/.gitignore
+!/README.md
+!/lotd.py
+!/lotd_client.py
+!/mock_grpcurl.py
+!/test_lotd.py
+!/live_test_lotd.py
